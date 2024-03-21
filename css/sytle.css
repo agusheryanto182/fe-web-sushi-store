@@ -91,7 +91,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("/img/header-bg.jpg");
+  background-image: url("https://res.cloudinary.com/dpb2qk5lf/image/upload/v1711041473/korean-food-kim-bap-steamed-rice-with-vegetables-seaweed_nkr9ju.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
